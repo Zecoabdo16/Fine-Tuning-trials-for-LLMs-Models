@@ -1,1 +1,1 @@
-[facebook/bart-large-mnli , MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7 ,  cross-encoder/nli-deberta-v3-large , cross-encoder/nli-deberta-v3-small , MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli , optimum/distilbert-base-uncased-mnli ]
+https://colab.research.google.com/github/MoritzLaurer/zeroshot-classifier/blob/main/1_data_harmonization_nli.ipynb#scrollTo=-4uYxbLh9k3_
