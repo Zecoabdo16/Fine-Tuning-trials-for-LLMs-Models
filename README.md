@@ -7,21 +7,30 @@ https://www.youtube.com/watch?v=HoqlUu_8fWE
 
 https://github.com/Zecoabdo16/Fine-Tuning-trials-for-LLMs-Models
 
+https://universe.roboflow.com/siabar/ppe-dataset-for-workplace-safety/browse?queryText=&pageSize=50&startingIndex=300&browseQuery=true
 
-training_args = TrainingArguments(
-    output_dir='./',
-    overwrite_output_dir=True,
-    load_best_model_at_end=True,
-    save_total_limit=1,
-    evaluation_strategy="steps",
-    save_strategy="steps",
-    eval_steps= 300,
-    save_steps = 300,
-    warmup_ratio=0.6,
-    learning_rate=5e-6,
-    per_device_train_batch_size=1,
-    per_device_eval_batch_size=1,
-    gradient_accumulation_steps=16,
+
+https://github.com/snehilsanyal/Construction-Site-Safety-PPE-Detection
+
+https://www.kaggle.com/datasets/snehilsanyal/construction-site-safety-image-dataset-roboflow
+
+https://universe.roboflow.com/siabar/ppe-dataset-for-workplace
+
+https://universe.roboflow.com/siabar/ppe-dataset-for-workplace/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+
+https://universe.roboflow.com/trialforobjectdetection/ppe-v1.1
+
+https://www.kaggle.com/datasets/snehilsanyal/construction-site-safety-image-dataset-roboflow
+
+https://universe.roboflow.com/ai-project-yolo/ppe-detection-q897z
+
+
+https://universe.roboflow.com/visionifyai-arunima/preprocessing-part-0/dataset/3
+
+https://app.diagrams.net/
+
+
+https://datasetsearch.research.google.com/search?src=0&query=forklift%20detection&docid=L2cvMTF0NW5mbnB2ZA%3D%3D)
     num_train_epochs=3,
     report_to='none',
     optim="adafactor",
