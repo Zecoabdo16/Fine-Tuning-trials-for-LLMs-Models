@@ -12,9 +12,7 @@ Tokyo, the capital city of Japan, is a bustling metropolis known for its modern 
 ## Images of Tokyo  
 Here are some images showcasing the beauty of Tokyo:  
 
-![Tokyo](https://sgp1.digitaloceanspaces.com/tripkliq-img-dev/city_images/Tokyo_OrS1QxOP.png)  
 ![Tokyo](https://sgp1.digitaloceanspaces.com/tripkliq-img-dev/city_images/Tokyo_7ObsOUok.png)  
-![Tokyo](https://sgp1.digitaloceanspaces.com/tripkliq-img-dev/city_images/Tokyo_ycZSva48.png)  
 
 If you have any specific questions or need more information about Tokyo, feel free to ask!  
 
